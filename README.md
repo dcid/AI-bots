@@ -5,4 +5,4 @@ List of AI Bots/crawlers IP address and user agents. Those can be used to block 
 
 Feedback and updates are welcome.
 
-# todo: script to convert into iptables/ipset, nginx and apache .htaccess.
+** todo: script to convert into iptables/ipset, nginx and apache .htaccess.
