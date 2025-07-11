@@ -10,6 +10,7 @@ Mozilla/5.0 (compatible) Ai2Bot-Dolma (+https://www.allenai.org/crawl)
 Mozilla/5.0 (compatible; aiHitBot/2.9; +https://www.aihitdata.com/about)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Gemini-Deep-Research; +https://gemini.google/overview/deep-research/) Chrome/135.0.0.0 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; MistralAI-User/1.0; +https://docs.mistral.ai/robots)
+DuckAssistBot/1.2; (+http://duckduckgo.com/duckassistbot.html)
 
 
 
